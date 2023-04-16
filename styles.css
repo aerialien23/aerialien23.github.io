@@ -12,15 +12,6 @@ a:hover{
     text-decoration: none;
 }
 
-button:hover{
-    transform: scale(1.1);
-    cursor: pointer;
-}
-
-button{
-    background-image:url(./img/IMG_0761.JPG); border:0px white solid; width:0px;height:0px;
-}
-
 .top{
     font-family: Courier New;
     font-size: 300%;
@@ -36,7 +27,7 @@ button{
 
 
 body{
-    background-image: url("./img/11.png");  
+    background-image: url("/img/11.png");  
     background-size: cover;
     font-size: 150%;
     font-family: 'Noto Serif TC', serif;
