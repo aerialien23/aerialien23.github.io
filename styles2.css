@@ -1,0 +1,30 @@
+.tag{
+    color: #4D70A7;
+    font-size: 110%;
+}
+
+body{
+    background-color: #decbd1;
+    font-family: 'Noto Serif TC', serif;
+    font-size: 150%;
+}
+
+.top{
+    font-family: Courier New;
+    font-size: 300%;
+    -webkit-text-stroke: 5px #3b2a23;
+    color: white;
+    text-shadow:
+       5px 5px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+.title{
+    font-family: Cursive, Papyrus, 'Times New Roman';
+    color: #2a3341;
+}
+
+

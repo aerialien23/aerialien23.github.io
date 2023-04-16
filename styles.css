@@ -1,0 +1,43 @@
+
+
+a:link{
+    color: #a5c2d4;
+}
+
+a:visited{
+    color: #97b3b6;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+button:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+button{
+    background-image:url(/img/IMG_0761.JPG); border:0px white solid; width:0px;height:0px;
+}
+
+.top{
+    font-family: Courier New;
+    font-size: 300%;
+    -webkit-text-stroke: 5px #3b2a23;
+    color: white;
+    text-shadow:
+       5px 5px 0 #000,
+     -1px -1px 0 #000,  
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+       1px 1px 0 #000;
+}
+
+
+body{
+    background-image: url("/img/11.png");  
+    background-size: cover;
+    font-size: 150%;
+    font-family: 'Noto Serif TC', serif;
+}
