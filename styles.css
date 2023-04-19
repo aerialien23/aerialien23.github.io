@@ -23,7 +23,19 @@ a:hover{
       1px -1px 0 #000,
       -1px 1px 0 #000,
        1px 1px 0 #000;
+    display: inline;
 }
+
+.goback{
+    max-width: 5%;
+    max-height: 5%;
+    position: relative;
+    top: 10px;
+}
+
+.pic{width:1000px;}
+.pic img{transform:scale(1,1);transition: all 1s ease-out;}
+.pic img:hover{transform:scale(1.2,1.2);}
 
 
 body{
